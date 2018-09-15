@@ -1,6 +1,6 @@
 # Feed Reader Testing
 
-## Instructions to successfully run the application:
+### Instructions to successfully run the application:
 * Clone the GitHub Repository:
 
 ```text
