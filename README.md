@@ -4,7 +4,7 @@
 * Clone the GitHub Repository:
 
 ```text
-$ git clone https://github.com/deemullins/feedreader.git
+$ git clone https://github.com/deemullins/Feedreader.git
 ```
 
 * Unzip file.
